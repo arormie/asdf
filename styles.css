@@ -36,3 +36,24 @@ body {
   background-color: black;
   background-image: linear-gradient(black, white);
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: lightblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color:black;
+}
+li a:hover {
+    color:blue;
+  background-color: black;
+}
