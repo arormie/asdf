@@ -52,3 +52,9 @@ li a:hover {
     color:blue;
   background-color: black;
 }
+#gradient {
+}
+#punpun {
+    position: absolute; 
+    bottom: 0;
+}
