@@ -52,6 +52,16 @@ li a:hover {
     color:blue;
   background-color: black;
 }
+
+.txt-expandhover{
+    transition: 0.4s;
+}
+   
+.txt-expandhover:hover{
+  letter-spacing: 7px;
+}
+     
+    
 #gradient {
 }
 #punpun {
