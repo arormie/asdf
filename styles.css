@@ -69,8 +69,10 @@ li a:hover {
 .txt-expandhover:hover{
   letter-spacing: 7px;
 }
-     
-    
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: black;
+}    
 #gradient {
 }
 #punpun {
