@@ -72,6 +72,8 @@ li a:hover {
 canvas {
     border:1px solid #d3d3d3;
     background-color: black;
+    position: absolute; 
+    bottom: 0;
 }    
 #gradient {
 }
